@@ -1,6 +1,6 @@
 # ReotshepileStock-Portfolio.io
 
-## 🎤 Mock Interview Video
+## Mock Interview Video
 
 This video demonstrates my mock interview where I present myself, and reflect on my technical and communication skills.
 
